@@ -1,0 +1,6 @@
+"www.amazon.com", 
+"www.casasbahia.com",
+ "www.magazine.com",
+"www.mercadolivre.com",
+ "www.shoppe.com", 
+ "www.aliexpress.com"
